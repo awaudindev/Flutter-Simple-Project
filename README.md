@@ -30,9 +30,9 @@
 
 ## About The Project
 
-This project is a mobile apps part of integration between pwa apps and php framework data processing.
+This project is a mobile apps part of integration between nuxt.js pwa and php framework data processing.
 
-Here are the link to pwa apps and php framework repository:
+Here are the link to nuxt.js pwa and php framework repository:
 * [![Laravel][Laravel-repo]][Laravel-url]
 * [![Nuxt][Nuxt-repo]][Nuxt-url]
 
