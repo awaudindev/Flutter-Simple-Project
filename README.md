@@ -76,7 +76,7 @@ apps](https://flutter.dev/docs/development/accessibility-and-localization/intern
 [issues-url]: https://github.com/awaudindev/nuxt-starter-templatee/issues
 [license-shield]: https://img.shields.io/github/license/awaudindev/nuxt-starter-template.svg?style=for-the-badge
 [license-url]: https://github.com/awaudindev/nuxt-starter-template/blob/master/LICENSE.txt
-[Nuxt-repo]: https://img.shields.io/badge/React-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white
+[Nuxt-repo]: https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white
 [Nuxt-url]: https://github.com/awaudindev/nuxt-starter-template
-[Flutter-repo]:  https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white
-[Flutter-url]: https://github.com/awaudindev/Flutter-Simple-Project
+[Laravel-repo]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://github.com/awaudindev/laravel-backend-project
