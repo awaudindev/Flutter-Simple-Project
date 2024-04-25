@@ -23,7 +23,7 @@
 
 <br />
 <div align="center">
-  <img src="public/pwa-192x192.png" alt="Logo" width="192" height="192">
+  <img src="assets/images/3.0x/flutter_logo.png" alt="Logo" width="192" height="192">
   <h3>Flutter Starter Project</h3>
   <p>A journey to improve Flutter development</p>
 </div>
