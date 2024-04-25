@@ -1,8 +1,42 @@
-# flutter_new_project
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-A new Flutter project.
 
-## Getting Started
+<!--
+*** Thanks for checking out my repository. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+<br />
+<div align="center">
+  <img src="public/pwa-192x192.png" alt="Logo" width="192" height="192">
+  <h3>Flutter Starter Project</h3>
+  <p>A journey to improve Flutter development</p>
+</div>
+
+## About The Project
+
+This project is a mobile apps part of integration between pwa apps and php framework data processing.
+
+Here are the link to pwa apps and php framework repository:
+* [![Laravel][Laravel-repo]][Laravel-url]
+* [![Nuxt][Nuxt-repo]][Nuxt-url]
+
+## Getting Starteds
 
 This project is a starting point for a Flutter application that follows the
 [simple app state management
@@ -28,3 +62,21 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/awaudindev/nuxt-starter-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[forks-url]: https://github.com/awaudindev/nuxt-starter-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[stars-url]: https://github.com/awaudindev/nuxt-starter-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[issues-url]: https://github.com/awaudindev/nuxt-starter-templatee/issues
+[license-shield]: https://img.shields.io/github/license/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[license-url]: https://github.com/awaudindev/nuxt-starter-template/blob/master/LICENSE.txt
+[Nuxt-repo]: https://img.shields.io/badge/React-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white
+[Nuxt-url]: https://github.com/awaudindev/nuxt-starter-template
+[Flutter-repo]:  https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://github.com/awaudindev/Flutter-Simple-Project
