@@ -25,7 +25,7 @@
 <div align="center">
   <img src="assets/images/3.0x/flutter_logo.png" alt="Logo" width="192" height="192">
   <h3>Flutter Starter Project</h3>
-  <p>A journey to improve Flutter development</p>
+  <p>A journey to improve Flutter Android development</p>
 </div>
 
 ## About The Project
@@ -35,6 +35,11 @@ This project is a mobile apps part of integration between nuxt.js pwa and php fr
 Here are the link to nuxt.js pwa and php framework repository:
 * [![Laravel][Laravel-repo]][Laravel-url]
 * [![Nuxt][Nuxt-repo]][Nuxt-url]
+
+## Prerequisite
+
+* install [Android Studio](https://developer.android.com/studio)
+* install [Visual Code Studio](https://code.visualstudio.com/docs/setup/windows)
 
 ## Contributing
 
