@@ -36,24 +36,6 @@ Here are the link to pwa apps and php framework repository:
 * [![Laravel][Laravel-repo]][Laravel-url]
 * [![Nuxt][Nuxt-repo]][Nuxt-url]
 
-## Getting Starteds
-
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -72,6 +54,24 @@ please see [CONTRIBUTING.md](CONTRIBUTING.md) for more informatio
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Getting Starteds
+
+This project is a starting point for a Flutter application that follows the
+[simple app state management
+tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+
+For help getting started with Flutter development, view the
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Assets
+
+The `assets` directory houses images, fonts, and any other files you want to
+include with your application.
+
+The `assets/images` directory contains [resolution-aware
+images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
 
 ## Localization
 
